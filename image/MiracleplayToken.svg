@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="1024" viewBox="0 0 1280 1024" xml:space="preserve">
+<desc>Created with Fabric.js 4.4.0</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 640 512)" id="background-logo"  >
+<rect style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-opacity: 0; fill-rule: nonzero; opacity: 1;"  paint-order="stroke"  x="-640" y="-512" rx="0" ry="0" width="1280" height="1024" />
+</g>
+<g transform="matrix(4.726001563379765 0 0 4.726001563379765 640.0881014533654 512.446380697051)" id="shape-cbfb31b3-8b55-4c1d-88ac-4b8a54aa26bd"  >
+<g style=""  paint-order="stroke"   >
+		<g transform="matrix(1 0 0 1 0 0)" id="Layer_1"  >
+<linearGradient id="SVGID_293825" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)"  x1="0" y1="0" x2="0" y2="200">
+<stop offset="0%" style="stop-color:rgb(101,121,155);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(94,37,99);stop-opacity: 1"/>
+</linearGradient>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_293825); fill-rule: nonzero; opacity: 1;"  paint-order="stroke"  transform=" translate(-100, -100)" d="M 200 100 C 200 155.22847498307934 155.22847498307934 200 100 200 C 44.771525016920656 200 0 155.22847498307934 0 100 C 0 44.771525016920656 44.771525016920656 0 100 0 C 155.22847498307934 0 200 44.77152501692063 200 99.99999999999997 Z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+<g transform="matrix(2.5583754537587646 0 0 2.5583754537587646 640.0881014533654 512.446380697051)" id="logo-logo"  >
+<g style=""  paint-order="stroke"   >
+		<g transform="matrix(2.464420785948276 0 0 -2.4644207859482754 0 0)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  paint-order="stroke"  transform=" translate(-162.5, -130)" d="M 203.5 89 L 174.821 117.679 L 162.5 105.357 L 150.179 117.679 L 140.927 126.93 L 146.019 113.519 L 121.5 89 L 121.5 171 L 162.5 130 L 167.318 125.182 L 165.453 132.953 L 203.5 171 Z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>
